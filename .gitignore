@@ -1,0 +1,7 @@
+aoc/stats/
+aoc/day_*
+aoc/tests/test_day_*
+
+*.iml
+.idea/
+__pycache__
